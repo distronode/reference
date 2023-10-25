@@ -2,8 +2,6 @@
 
 Go library to handle references to container images.
 
-<img src="/distronode-logo.svg" width="200px" />
-
 [![Build Status](https://github.com/distronode/reference/actions/workflows/test.yml/badge.svg?branch=main&event=push)](https://github.com/distronode/reference/actions?query=workflow%3ACI)
 [![GoDoc](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/distronode/reference)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
